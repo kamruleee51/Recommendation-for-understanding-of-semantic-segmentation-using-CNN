@@ -5,6 +5,19 @@ In general, CNN for the semantic segmentation consists of two essential parts fo
 ## Useful links for understanding semantic segmentation 
 - [x] Title: How to do Semantic Segmentation using Deep learning <br>
       Link : https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef
+      
+- [x] Title: How to do Semantic Segmentation using Deep learning <br>
+      Link : https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef     
+      
+- [x] Title: How to do Semantic Segmentation using Deep learning <br>
+      Link : https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef
+
+- [x] Title: How to do Semantic Segmentation using Deep learning <br>
+      Link : https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef
+      
+      
+- [x] Title: How to do Semantic Segmentation using Deep learning <br>
+      Link : https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef
 
 
 #### Written by-
