@@ -79,7 +79,9 @@ In general, CNN for the semantic segmentation consists of two essential parts fo
 - [x] Title: How is Fully Convolutional Network (FCN) different from the original Convolutional Neural Network (CNN)? <br>
       Link : https://www.quora.com/How-is-Fully-Convolutional-Network-FCN-different-from-the-original-Convolutional-Neural-Network-CNN
       
-      
+
+### Understanding Region-based Fully Convolutional Networks (R-FCN) for object detection
+- [x] Link: https://medium.com/@jonathan_hui/understanding-region-based-fully-convolutional-networks-r-fcn-for-object-detection-828316f07c99 
       
       
       
