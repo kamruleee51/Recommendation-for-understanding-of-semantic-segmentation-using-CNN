@@ -23,6 +23,34 @@ In general, CNN for the semantic segmentation consists of two essential parts fo
       
 - [x] Title: How to use DeepLab in TensorFlow for object segmentation using Deep Learning <br>
       Link : https://medium.freecodecamp.org/how-to-use-deeplab-in-tensorflow-for-object-segmentation-using-deep-learning-a5777290ab6b
+      
+## Understanding of U-Net
+
+- [x] Title: U-Net: Convolutional Networks for Biomedical Image Segmentation <br>
+      Link : https://arxiv.org/abs/1505.04597
+      
+- [x] Title: Understanding Semantic Segmentation with UNET <br>
+      Link : https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
+
+- [x] Title: Medical Image Segmentation [Part 1] — UNet: Convolutional Networks with Interactive Code <br>
+      Link : https://towardsdatascience.com/medical-image-segmentation-part-1-unet-convolutional-networks-with-interactive-code-70f0f17f46c6
+      
+- [x] Title: U-Net <br>
+      Link : http://www.deeplearning.net/tutorial/unet.html
+      
+ - [x] Title: Learn How to Train U-Net On Your Dataset <br>
+      Link : https://medium.com/coinmonks/learn-how-to-train-u-net-on-your-dataset-8e3f89fbd623
+      
+ - [x] Title: Practical image segmentation with Unet <br>
+      Link : https://tuatini.me/practical-image-segmentation-with-unet/
+      
+ - [x] Title: Get acquainted with U-NET architecture + some keras shortcuts <br>
+      Link : https://spark-in.me/post/unet-adventures-part-one-getting-acquainted-with-unet
+
+## Github Source code link
+- [x] Title: Awesome Semantic Segmentation <br>
+      Link : https://github.com/mrgloom/awesome-semantic-segmentation
+
 
 #### Written by-
 #### Md. Kamrul Hasan 
