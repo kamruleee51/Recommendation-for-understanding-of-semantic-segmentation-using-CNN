@@ -82,8 +82,18 @@ In general, CNN for the semantic segmentation consists of two essential parts fo
 
 ### Understanding Region-based Fully Convolutional Networks (R-FCN) for object detection
 - [x] Link: https://medium.com/@jonathan_hui/understanding-region-based-fully-convolutional-networks-r-fcn-for-object-detection-828316f07c99 
+
+- [x] Link: https://arxiv.org/abs/1605.06409
       
-      
+- [x] Link: https://towardsdatascience.com/review-r-fcn-positive-sensitive-score-maps-object-detection-91cd2389345c
+
+- [x] Link: https://www.coursera.org/lecture/deep-learning-in-computer-vision/region-based-fully-convolutional-network-klgX0
+
+- [x] Link: https://github.com/hwkim94/hwkim94.github.io/wiki/R-FCN%5B1%5D-R-FCN:-Object-Detection-via-Region-based-Fully-Convolutional-Networks(2016)
+
+- [x] Link: https://github.com/saranshkarira/Reviews/blob/master/reviews/rfcn-object-detection-via-region-based-fully-convolutional-networks.md
+
+
       
 ## Github Source code link
 - [x] Title: Awesome Semantic Segmentation <br>
