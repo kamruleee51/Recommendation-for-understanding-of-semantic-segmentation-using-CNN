@@ -24,6 +24,8 @@ In general, CNN for the semantic segmentation consists of two essential parts fo
 - [x] Title: How to use DeepLab in TensorFlow for object segmentation using Deep Learning <br>
       Link : https://medium.freecodecamp.org/how-to-use-deeplab-in-tensorflow-for-object-segmentation-using-deep-learning-a5777290ab6b
       
+      
+      
 ## Understanding of U-Net
 
 - [x] Title: U-Net: Convolutional Networks for Biomedical Image Segmentation <br>
@@ -46,10 +48,47 @@ In general, CNN for the semantic segmentation consists of two essential parts fo
       
  - [x] Title: Get acquainted with U-NET architecture + some keras shortcuts <br>
       Link : https://spark-in.me/post/unet-adventures-part-one-getting-acquainted-with-unet
+      
+      
+      
+## Understanding of Fully Convolutional Networks (FCN)
 
+- [x] Title: Fully Convolutional Networks (FCN) for 2D segmentation <br>
+      Link : http://www.deeplearning.net/tutorial/fcn_2D_segm.html
+      
+      
+- [x] Title: Review: FCN — Fully Convolutional Network (Semantic Segmentation) <br>
+      Link : https://towardsdatascience.com/review-fcn-semantic-segmentation-eb8c9b50d2d1
+
+- [x] Title: Fully Convolutional Networks (FCNs) for Image Segmentation <br>
+      Link : http://warmspringwinds.github.io/tensorflow/tf-slim/2017/01/23/fully-convolutional-networks-(fcns)-for-image-segmentation/
+      
+      
+- [x] Title: Semantic Segmentation using Fully Convolutional Networks over the years <br>
+      Link : https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html
+      
+
+- [x] Title: Fully Convolutional Networks for Semantic Segmentation <br>
+      Link : https://paperswithcode.com/paper/fully-convolutional-networks-for-semantic
+
+
+- [x] Title: Fully Convolutional Networks (FCN) <br>
+      Link : https://d2l.ai/chapter_computer-vision/fcn.html
+      
+
+- [x] Title: How is Fully Convolutional Network (FCN) different from the original Convolutional Neural Network (CNN)? <br>
+      Link : https://www.quora.com/How-is-Fully-Convolutional-Network-FCN-different-from-the-original-Convolutional-Neural-Network-CNN
+      
+      
+      
+      
+      
 ## Github Source code link
 - [x] Title: Awesome Semantic Segmentation <br>
       Link : https://github.com/mrgloom/awesome-semantic-segmentation
+
+
+
 
 
 #### Written by-
