@@ -100,7 +100,16 @@ In general, CNN for the semantic segmentation consists of two essential parts fo
       Link : https://github.com/mrgloom/awesome-semantic-segmentation
 
 
+## Semantic segmentation challenges in different fields
 
+- [x] Title: The International Skin Imaging Collaboration (ISIC) is an international effort to improve melanoma diagnosis,      sponsored by the International Society for Digital Imaging of the Skin (ISDIS). The ISIC Archive contains the largest publicly available collection of quality controlled dermoscopic images of skin lesions. <br>
+      Link : https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main
+      
+- [x] Title: All challenges that have been organized by MICCAI within the area of medical image analysis can be found on the following link. <br>
+      Link : https://grand-challenge.org/challenges/
+      ![MICCAI Segmentation Challenges](https://user-images.githubusercontent.com/32570071/57458413-99e05e80-7271-11e9-845a-4bc466e3e542.png)
+      In the picture, it is seen that after selecting task type as Segmentation, all the Medical image segmentation challenges can be found.
+      
 
 
 #### Written by-
