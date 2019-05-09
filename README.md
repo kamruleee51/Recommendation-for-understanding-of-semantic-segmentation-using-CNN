@@ -108,7 +108,15 @@ In general, CNN for the semantic segmentation consists of two essential parts fo
 - [x] Title: All challenges that have been organized by MICCAI within the area of medical image analysis can be found on the following link. <br>
       Link : https://grand-challenge.org/challenges/
       ![MICCAI Segmentation Challenges](https://user-images.githubusercontent.com/32570071/57458413-99e05e80-7271-11e9-845a-4bc466e3e542.png)
-      In the picture, it is seen that after selecting task type as Segmentation, all the Medical image segmentation challenges can be found.
+      In the picture, it is seen that after selecting task type as Segmentation, the Medical image segmentation challenges can be found.
+
+- [x] More other challenges:
+      Link: http://www.isles-challenge.org/
+      Link: http://atriaseg2018.cardiacatlas.org/
+      Link: http://medicaldecathlon.com/
+      Link: http://braintumorsegmentation.org/
+      Link: http://sceneparsing.csail.mit.edu/
+      Link: http://cocodataset.org/#home
       
 
 
